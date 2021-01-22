@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2018 The LineageOS Project
+# Edited by MuRF2
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -17,6 +18,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_oneplus2.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_oneplus2-user \
-    lineage_oneplus2-userdebug \
-    lineage_oneplus2-eng
+    aosp_oneplus2-user \
+    aosp_oneplus2-userdebug \
+    aosp_oneplus2-eng
