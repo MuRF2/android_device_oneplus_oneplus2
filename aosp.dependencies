@@ -19,8 +19,8 @@
   }
   {
     "remote": "github",
-    "repository": "OnePlusOSS/android_vendor_oneplus_oneplus2",
-    "target_path": "vendor/oneplus/oneplus2",
-    "branch": "oneplus/6.0.1"
+    "repository": "TheMuppets/proprietary_vendor_oneplus",
+    "target_path": "vendor/oneplus",
+    "branch": "cm-14.1"
   }
 ]
